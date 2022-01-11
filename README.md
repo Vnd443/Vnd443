@@ -6,7 +6,7 @@ I’m currently learning MERN Specializarion mongodb express react nodejs
 
 🤝 I’m looking for help with MERN Stack
 
-👨‍💻 All of my projects are available at https://github.com/kasivivekkasivivek?tab=repositories
+👨‍💻 All of my projects are available at https://github.com/Vnd443?tab=repositories
 
 💬 Ask me about MERN Stack , Python , SQL
 <!---
