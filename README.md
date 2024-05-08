@@ -1,15 +1,9 @@
--HI 👋, I’m @Venna Naga Dugaprasad
+👋 Hi there! I'm @Venna Naga Dugaprasad.
 
-I’m currently learning MERN Specializarion mongodb express react nodejs
+🔭 Currently, I'm employed at IBM India Private Limited as an Application Developer.
 
-🔭 I’m currently working on ReactJS
+👨‍💻 You can find all of my projects on my GitHub profile: https://github.com/Vnd443?tab=repositories
 
-🤝 I’m looking for help with MERN Stack
-
-👨‍💻 All of my projects are available at https://github.com/Vnd443?tab=repositories
-
-💬 Ask me about MERN Stack , Python , SQL
 <!---
 Vnd443/Vnd443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
