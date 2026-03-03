@@ -6,11 +6,9 @@
 💡 3+ years of experience in Python automation, AWS cloud infrastructure & GenAI engineering  
 📫 Seeking roles in **GenAI Engineering | AIOps | Python Development | Cloud & DevOps Automation**  
 👨‍💻 All my projects: [github.com/Vnd443](https://github.com/Vnd443?tab=repositories)  
-🔗 Let's connect: 
+🔗 Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venna%20Naga%20Dugaprasad-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad443)
-
----
 
 ## 🤖 Generative AI & AIOps
 
@@ -21,8 +19,6 @@
 ![AIOps](https://img.shields.io/badge/AIOps-%2300B4D8.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Roo Code](https://img.shields.io/badge/Roo%20Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
 ## ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -31,8 +27,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
----
 
 ## 🐍 Languages & Frameworks
 
@@ -43,8 +37,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-
 ## 📊 Data & ML
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -52,8 +44,6 @@
 ![SageMaker](https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Boto3](https://img.shields.io/badge/Boto3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
 
 ## 🗄️ Databases
 
@@ -63,8 +53,6 @@
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-%238C4FFF.svg?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-
 ## 🔁 CI/CD & DevOps
 
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -72,9 +60,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
 
 ## 📈 Monitoring & Observability
 
@@ -83,26 +70,22 @@
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-%23009639.svg?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Autosys](https://img.shields.io/badge/Autosys-003366?style=for-the-badge&logo=broadcom&logoColor=white)
 
----
-
 ## 🎨 Design Tools
 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
----
-
-<!--
+<!---
 ## 📊 GitHub Stats
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vnd443&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
--->
-<!--
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Vnd443&theme=tokyonight&hide_border=false)
--->
-<!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnd443&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vnd443&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vnd443&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnd443&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=Vnd443&icon=5&color=6)](https://visitcount.itsvg.in)
+
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
