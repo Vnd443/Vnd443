@@ -5,7 +5,10 @@
 🌱 Currently building AI-powered solutions using **AWS Bedrock & IBM Consulting Advantage**  
 💡 3+ years of experience in Python automation, AWS cloud infrastructure & GenAI engineering  
 📫 Seeking roles in **GenAI Engineering | AIOps | Python Development | Cloud & DevOps Automation**  
-👨‍💻 All my projects: [github.com/Vnd443](https://github.com/Vnd443?tab=repositories)
+👨‍💻 All my projects: [github.com/Vnd443](https://github.com/Vnd443?tab=repositories)  
+🔗 Let's connect: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venna%20Naga%20Dugaprasad-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad443)
 
 ---
 
@@ -100,6 +103,6 @@
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnd443&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
----
--->
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
