@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm @Venna Naga Dugaprasad
+# 👋 Hi there! I'm @Venna Naga Durgaprasad
 
 🔭 **Application Developer @ IBM India Private Limited**  
 🤖 Passionate about **Generative AI · AIOps · Cloud Automation · DevOps**  
@@ -8,7 +8,7 @@
 👨‍💻 All my projects: [github.com/Vnd443](https://github.com/Vnd443?tab=repositories)  
 🔗 Let's connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venna%20Naga%20Dugaprasad-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad443)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venna%20Naga%20Durgaprasad-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad443)
 
 ## 🤖 Generative AI & AIOps
 
