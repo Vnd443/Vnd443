@@ -89,16 +89,17 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vnd443&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
+-->
+<!--
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Vnd443&theme=tokyonight&hide_border=false)
-
+-->
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnd443&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 ---
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
